@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Tiwari</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tabhishek07&label=Profile%20views&color=0e75b6&style=flat" alt="shubgupta1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tabhishek07&label=Profile%20views&color=0e75b6&style=flat" alt="abhi" /> </p>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg"
 
-<p align="left"> <a href="https://twitter.com/tabhishek__" target="blank"><img src="https://img.shields.io/twitter/follow/tabhishek__?logo=twitter&style=for-the-badge" alt="i_m_shubham45" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tabhishek__" target="blank"><img src="https://img.shields.io/twitter/follow/tabhishek__?logo=twitter&style=for-the-badge" alt="tabhishek__" /></a> </p>
 
 - 🔭 I’m currently working on **A new Project**
 
@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/tabhishek__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_m_shubham45" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhishek-tiwari-8b55b4226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shubham-kumar-gupta-30a916234" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abhishek_tiwari.07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_shubham10" height="30" width="40" /></a>
-<a href="https://discord.gg/abhishek_tiwari.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubham_1020" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abhishek_tiwari.07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tabhishek__" height="30" width="40" /></a>
+<a href="https://discord.gg/abhishek_tiwari.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tabhishek__ height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
