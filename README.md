@@ -48,5 +48,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>   
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> </p>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>              
+   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="react" width="40" height="40"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="react" width="40" height="40"/> </a></p>
   
